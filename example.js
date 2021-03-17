@@ -21,4 +21,3 @@ result = num_1 / num_2;
 } else {
 alert("Not a valid option!");
 }
-
